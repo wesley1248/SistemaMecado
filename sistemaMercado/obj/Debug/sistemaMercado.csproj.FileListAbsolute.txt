@@ -1,0 +1,8 @@
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\bin\Debug\sistemaMercado.exe.config
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\bin\Debug\sistemaMercado.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\bin\Debug\sistemaMercado.pdb
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\obj\Debug\sistemaMercado.csproj.AssemblyReference.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\obj\Debug\sistemaMercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\obj\Debug\sistemaMercado.csproj.CoreCompileInputs.cache
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\obj\Debug\sistemaMercado.exe
+C:\Users\wesle\OneDrive\Documentos\estudos\sistemaMercado\sistemaMercado\obj\Debug\sistemaMercado.pdb
